@@ -183,6 +183,7 @@
 
 
 "Fetch and display real-time synced lyrics when available" = "Récupérer et afficher les paroles synchronisées en temps réel lorsqu'elles sont disponibles";
+"Show romanized text (romaji, pinyin, etc.) below non-Latin lyrics" = "Afficher le texte romanisé (romaji, pinyin, etc.) sous les paroles non latines";
 "Find songs, albums, artists, and playlists" = "Trouvez des morceaux, albums, artistes et playlists";
 
 "Follow artists on YouTube Music to see them here." = "Suivez des artistes sur YouTube Music pour les voir ici.";

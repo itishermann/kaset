@@ -3097,6 +3097,16 @@
         }
       }
     },
+    "Show romanized text (romaji, pinyin, etc.) below non-Latin lyrics" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afficher le texte romanisé (romaji, pinyin, etc.) sous les paroles non latines"
+          }
+        }
+      }
+    },
     "Find songs, albums, artists, and playlists" : {
       "localizations" : {
         "ar" : {
